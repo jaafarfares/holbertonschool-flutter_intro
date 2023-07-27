@@ -1,7 +1,8 @@
 # 0x01. Flutter - Flutter Intro
 ![Screenshot](1.png) ![Screenshot](2.png)
 
-### Recources
+### Resources
+
 * [Rick and Morty API](https://rickandmortyapi.com/)
 * [List View Flutter](https://www.geeksforgeeks.org/listview-builder-in-flutter/)
 * [Grid View Flutter](https://www.kindacode.com/article/flutter-gridview-builder-example/)
